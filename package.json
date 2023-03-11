@@ -5,7 +5,7 @@
   "main": "one.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run-both": "node one.js && node two.js"
+    "run-both1": "node one.js && node two.js"
   },
   "keywords": [],
   "author": "",
